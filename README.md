@@ -1,0 +1,1 @@
+This project involves creating a visually appealing fractal pattern known as the Hexaflake. The Hexaflake is generated using recursive function calls that draw hexagons at decreasing scales, ultimately forming a complex and symmetrical pattern resembling a snowflake. The application is developed in C++ using the SFML library for rendering the graphics
